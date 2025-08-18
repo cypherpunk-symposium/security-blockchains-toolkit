@@ -97,6 +97,7 @@ function withdrawBalance() public {
 
 <br>
 
+* **[reentrancy attack in erc-1155 (2025)](https://ackee.xyz/blog/reentrancy-attack-in-erc-1155/)**
 * **[reentrancy on solidity docs](https://docs.soliditylang.org/en/latest/security-considerations.html#re-entrancy)**
 * **[reentrancy on DASP](https://www.dasp.co/#item-1)**
 * **[reentrancy on SWC](https://swcregistry.io/docs/SWC-107)**
