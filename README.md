@@ -35,4 +35,5 @@
 ### IV. learn from on-going research
 
 * **[p2p security](advanced_expert/p2p_security)**
+* **[the age of ai](advanced_expert/say_hi_to_ai)**
 
